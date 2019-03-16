@@ -1,5 +1,5 @@
 # Volt
-Arquivos direcionados ao projeto Volt
+Arquivos direcionados ao projeto Volt, um assistente pessoal do Laboratório de Robótica e Sistemas Embarcados(LARSE) do IFES campus Serra. A inteligência conta com algumas funcionalidades:
 
 # How to install :<br><br>
 
@@ -14,6 +14,7 @@ Documentação da biblioteca:<br>
 <br><br>
 Documentação da biblioteca:<br>
 https://github.com/Uberi/speech_recognition
+
 # PyAudio
 <br>
 On Windows, install PyAudio using Pip: 
